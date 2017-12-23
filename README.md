@@ -1,0 +1,5 @@
+# SampleSpringCXF
+Spring CXF Hibernate    
+
+
+
